@@ -1,10 +1,9 @@
 # T4 - Webapp 2024 Live Task 4 
-
-## Notater
 <p>
     Oppgave 1 er i main branch. Oppgave 2 og 3 er separate branches.
 </p> 
-### oppgave 1:
+
+## Notater til oppgave 1:
 <p>
     Det fungerer å sende en dadJoke fra frontend til backend, den blir lagret der.
     Men jeg har ikke lagt til at siden refresher og viser den nye vitsen automatisk.
